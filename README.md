@@ -1,13 +1,21 @@
 # insert-header-and-footer-code
 
 === Insert Header and Footer Code ===
+
 Contributors: vikas4travel
+
 Tags: facebook pixel, google analytics, insert code, insert script, header code, insert js, insert css, header scripts, footer scripts
+
 Requires at least: 5.2
+
 Tested up to: 5.6
+
 Stable tag: 1.0.1
+
 Requires PHP: 7.2
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to insert CSS, Javascript code or any other script required by google analytics, tracking and marketing services to the header or footer of your WordPress website.
@@ -33,6 +41,7 @@ This plugin in itself does not:
 * use cookies.
 
 = What's Next =
+
 If you find this plugin useful, please leave a good rating.
 You can also provide us [feedback here](http://caketech.in/provide-feedback/); 
 
@@ -42,6 +51,7 @@ You can also provide us [feedback here](http://caketech.in/provide-feedback/);
 This plugin is created by [Vikas Sharma](https://caketech.in).
 
 == Installation ==
+
 1. Extract `insert-header-and-footer-code.zip` to your `/wp-content/plugins/` directory.
 2. In the admin panel under plugins activate the plugin - Insert Header and Footer Code.
 
