@@ -1,0 +1,10 @@
+.CodeMirror {
+	border: 1px solid #ddd;
+}
+
+.ihafc-about {
+	border: 1px solid #ddd;
+	padding: 20px;
+	background-color: #fff;
+	height: 250px;
+}
